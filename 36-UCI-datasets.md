@@ -1,6 +1,6 @@
 # Table: Description of 36 UCI Datasets
 
-**Caption:** Description of 36 UCI datasets, including sample size (training size), number of features ($m$), and number of labels ($\#~\ell$); where $\ell$-digit indicates the dataset sample size for each corresponding digit-labeled class; The parameters `max-r` and `min-r` represent the maximum and minimum imbalance ratios, respectively. These ratios are defined as the count of the minority class (either the smallest or second-largest class) divided by the count of the largest class.
+**Caption:** Description of 36 UCI datasets, including sample size (training size), number of features (m), and number of labels (\#~\ell); where $\ell$-digit indicates the dataset sample size for each corresponding digit-labeled class; The parameters `max-r` and `min-r` represent the maximum and minimum imbalance ratios, respectively. These ratios are defined as the count of the minority class (either the smallest or second-largest class) divided by the count of the largest class.
 
 | ID | Data Name | Training Sample | $m$ | $\#~\ell$ | ℓ-1 | ℓ-2 | ℓ-3 | ℓ-4 | ℓ-5 | ℓ-6 | ℓ-7 | ℓ-8 | ℓ-9 | ℓ-10 | min-r | max-r |
 |----|-----------|-----------------|-----|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|-------|-------|
