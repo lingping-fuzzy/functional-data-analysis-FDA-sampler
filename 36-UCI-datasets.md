@@ -1,8 +1,8 @@
 # Table: Description of 36 UCI Datasets
 
-**Caption:** Description of 36 UCI datasets, including sample size (training size), number of features (m), and number of labels (\#~\ell); where $\ell$-digit indicates the dataset sample size for each corresponding digit-labeled class; The parameters `max-r` and `min-r` represent the maximum and minimum imbalance ratios, respectively. These ratios are defined as the count of the minority class (either the smallest or second-largest class) divided by the count of the largest class.
+**Caption:** Description of 36 UCI datasets, including sample size (training size), number of features (m), and number of labels (ℓ); where ℓ-digit indicates the dataset sample size for each corresponding digit-labeled class; The parameters `max-r` and `min-r` represent the maximum and minimum imbalance ratios, respectively. These ratios are defined as the count of the minority class (either the smallest or second-largest class) divided by the count of the largest class.
 
-| ID | Data Name | Training Sample | $m$ | $\#~\ell$ | ℓ-1 | ℓ-2 | ℓ-3 | ℓ-4 | ℓ-5 | ℓ-6 | ℓ-7 | ℓ-8 | ℓ-9 | ℓ-10 | min-r | max-r |
+| ID | Data Name | Training Sample | m | # ℓ | ℓ-1 | ℓ-2 | ℓ-3 | ℓ-4 | ℓ-5 | ℓ-6 | ℓ-7 | ℓ-8 | ℓ-9 | ℓ-10 | min-r | max-r |
 |----|-----------|-----------------|-----|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|-------|-------|
 | ID-1 | Rice (Cammeo and Osmancik) | 2667 | 7 | 2 | 1630 | 2180 | | | | | | | | | 0.75 | 0.75 |
 | ID-2 | Yeast | 1038 | 8 | 10 | 463 | 5 | 35 | 44 | 51 | 163 | 244 | 429 | 20 | 30 | 0.01 | 0.93 |
