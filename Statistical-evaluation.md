@@ -72,3 +72,7 @@
 **Notes**:  
 - ↓ indicates lower values are better.  
 - Bold values denote the best-performing method for each metric within a dataset.
+
+  **Notes**
+
+- Although fdaSampler performs slightly worse on distribution-based metrics such as MMD and Wasserstein distance, its stronger smoothing effect enhances class separability, leading to better classification results. This indicates a trade-off where the generated samples may deviate modestly from the original data distribution but form clearer decision boundaries, which benefits classifier training in practice, especially for imbalanced datasets.
